@@ -1,4 +1,5 @@
 {
+  "homepage": "https://nabeelshar.github.io/nodejs-translate",
   "scripts": {
     "start": "nodemon index.js"
   },
