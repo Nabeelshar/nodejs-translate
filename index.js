@@ -2,7 +2,7 @@ const express = require('express');
 const { translate } = require('@vitalets/google-translate-api');
 
 const app = express();
-const appUrl = 'http://localhost:3000';
+const appUrl = 'https://nabeelshar.github.io/nodejs-translate/';
 const port = process.env.PORT || 3000;
 
 app.use(express.json());
